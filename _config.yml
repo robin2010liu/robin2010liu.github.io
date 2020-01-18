@@ -1,10 +1,10 @@
 # Site settings
 title: RL Blog
-SEOTitle: 江波的博客 | BY Blog
+SEOTitle: 江波的博客 | RL Blog
 header-img: img/post-bg-desk.jpg
 email: robin2010.liu@gmail.com
 description: "Every failure is leading towards success."
-keyword: "RL, RL Blog, 江波的博客, 刘江波, Algorithm, Control, AI"
+keyword: "RL, RL Blog, 江波的博客, 刘江波, Algorithm, Control, Robotics, AI"
 url: "http://robin2010liu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/robin2010liu/robin2010liu.github.io.git" # you code repository
@@ -21,8 +21,8 @@ RSS: false
 # weibo_username:   robin
 zhihu_username:     robin
 github_username:    robin
-facebook_username:  robin
-jianshu_username:   robin
+# facebook_username:  robin
+jianshu_username:   4ee9f031cc95
 #twitter_username:   robin
 
 
@@ -102,8 +102,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·RL",
+        href: https://www.jianshu.com/p/4ee9f031cc95"
     },{
         title: "Apple",
         href: "https://apple.com"
