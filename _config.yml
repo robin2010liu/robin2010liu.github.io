@@ -3,7 +3,7 @@ title: RL Blog
 SEOTitle: 江波的博客 | RL Blog
 header-img: img/post-bg-desk.jpg
 email: robin2010.liu@gmail.com
-description: "Every failure is leading towards success."
+description: "Don't be afraid, go ahead, you can do it."
 keyword: "RL, RL Blog, 江波的博客, 刘江波, Algorithm, Control, Robotics, AI"
 url: "http://robin2010liu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/robin2010liu/robin2010liu.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Fight hard to make progress!"
+sidebar-avatar: /img/About-RL-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     robin
 github_username:    robin
 # facebook_username:  robin
-jianshu_username:   4ee9f031cc95
+jianshu_username:   878ca4851211
 #twitter_username:   robin
 
 
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·RL",
-        href: "https://www.jianshu.com/p/4ee9f031cc95"
+        href: "https://www.jianshu.com/u/878ca4851211"
     },{
         title: "Apple",
         href: "https://apple.com"
